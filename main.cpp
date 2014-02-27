@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
-#include <Card.hpp>
-#include <Deck.hpp>
+#include "Card.hpp"
+#include "Deck.hpp"
 using namespace std;
 
 void printMenu()

@@ -3,5 +3,6 @@
 class Deck
 {
 
-}
+};
+
 #endif
